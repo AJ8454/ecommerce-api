@@ -1,1 +1,1 @@
-# ecommerce-api
+# FullStack ecommerce-app
